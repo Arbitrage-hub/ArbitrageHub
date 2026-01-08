@@ -318,7 +318,7 @@ We welcome contributions! Here's how:
 1. **Fork** the repository
 2. **Clone** your fork:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/arbitragehub.git
+   git clone https://github.com/Arbitrage-hub/arbitragehub.git
    ```
 3. **Create a feature branch**:
    ```bash
